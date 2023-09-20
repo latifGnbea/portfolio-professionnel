@@ -1,6 +1,6 @@
 import React from "react";
 import "./portfolio.css";
-import P1 from "../../assets/portfolio-1.png";
+import P1 from "../../assets/croquis_carte_monde.png";
 // import P2 from "../../assets/portfolio-2.png";
 // import P3 from "../../assets/portfolio-3.png";
 // import P4 from "../../assets/portfolio-4.png";
@@ -21,17 +21,17 @@ const Portfolio = () => {
 
       <div className="portfolio-imgs">
       <Presentation
-          title="Projet A"
+          title="Carte du monde"
           tags="#Html #Css #ReactJS NodeJS"
           description="Site web qui affiche tous les pays du monde ainsi que la population total et la capital avec un système de filtre en fonction du continent "
-          imageUrl={P6}
+          imageUrl={P1}
           githubLink="https://gitlab.com/projet_personnel2/carte-du-monde.git"
           liveDemoLink="#"
         />
         <Presentation
           title="Projet A"
           description="Site web qui affiche tous les pays du monde ainsi que la population total et la capital avec un système de filtre en fonction du continent "
-          imageUrl={P1}
+          imageUrl={P6}
           githubLink="#"
           liveDemoLink="#"
         />

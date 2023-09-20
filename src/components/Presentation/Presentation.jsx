@@ -19,7 +19,7 @@ const Presentation = ({
     <div className="project-card">
       <img src={imageUrl} alt={title} className="project-image" />
       <h3 className="project-title">{title}</h3>
-      <i>{tags}</i>
+      <i className="tags">{tags}</i>
       <p
         className={`project-description${
           isDescriptionExpanded ? '-expanded' : ''

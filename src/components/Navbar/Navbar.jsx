@@ -31,7 +31,7 @@ const Navbar = () => {
           duration={500}
           className="desktopMenuListItem"
         >
-          About
+          A propos de moi
         </Link>
         <Link
           activeClass="active"
@@ -93,7 +93,7 @@ const Navbar = () => {
           className="list-item"
           onClick={()=>{setShowMenu(false)}}
         >
-          About
+          A propos de moi
         </Link>
         <Link
           activeClass="active"

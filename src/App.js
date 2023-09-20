@@ -8,6 +8,7 @@ import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
+import "./style.css"
 
 
 

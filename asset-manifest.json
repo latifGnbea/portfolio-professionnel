@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-professionnel/static/css/main.a8d6ee0a.css",
-    "main.js": "/portfolio-professionnel/static/js/main.22f04ce4.js",
+    "main.css": "/portfolio-professionnel/static/css/main.c29ec6d7.css",
+    "main.js": "/portfolio-professionnel/static/js/main.113842f1.js",
     "static/media/bg.png": "/portfolio-professionnel/static/media/bg.d1e98725568cf28840d1.png",
     "static/media/portfolio-6.png": "/portfolio-professionnel/static/media/portfolio-6.4a10fac7d271e87859e9.png",
     "static/media/cvLatif2023.pdf": "/portfolio-professionnel/static/media/cvLatif2023.a446ceb385102c19359f.pdf",
@@ -15,11 +15,11 @@
     "static/media/js_5968292.png": "/portfolio-professionnel/static/media/js_5968292.3dfb665e058d08c99f28.png",
     "static/media/instagram.png": "/portfolio-professionnel/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/portfolio-professionnel/index.html",
-    "main.a8d6ee0a.css.map": "/portfolio-professionnel/static/css/main.a8d6ee0a.css.map",
-    "main.22f04ce4.js.map": "/portfolio-professionnel/static/js/main.22f04ce4.js.map"
+    "main.c29ec6d7.css.map": "/portfolio-professionnel/static/css/main.c29ec6d7.css.map",
+    "main.113842f1.js.map": "/portfolio-professionnel/static/js/main.113842f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8d6ee0a.css",
-    "static/js/main.22f04ce4.js"
+    "static/css/main.c29ec6d7.css",
+    "static/js/main.113842f1.js"
   ]
 }

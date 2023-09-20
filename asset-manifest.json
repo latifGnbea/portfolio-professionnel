@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio-professionnel/static/css/main.c29ec6d7.css",
-    "main.js": "/portfolio-professionnel/static/js/main.113842f1.js",
+    "main.css": "/portfolio-professionnel/static/css/main.012ebb5d.css",
+    "main.js": "/portfolio-professionnel/static/js/main.1166328f.js",
     "static/media/bg.png": "/portfolio-professionnel/static/media/bg.d1e98725568cf28840d1.png",
     "static/media/portfolio-6.png": "/portfolio-professionnel/static/media/portfolio-6.4a10fac7d271e87859e9.png",
     "static/media/cvLatif2023.pdf": "/portfolio-professionnel/static/media/cvLatif2023.a446ceb385102c19359f.pdf",
-    "static/media/portfolio-1.png": "/portfolio-professionnel/static/media/portfolio-1.b33adf772d54ab33e953.png",
     "static/media/2560px-Node.js_logo.png": "/portfolio-professionnel/static/media/2560px-Node.js_logo.fc3bd1ec69d7a50e685a.png",
+    "static/media/croquis_carte_monde.png": "/portfolio-professionnel/static/media/croquis_carte_monde.e479dd1ebb654dc7f0f8.png",
     "static/media/mongo.png": "/portfolio-professionnel/static/media/mongo.2c167c721bd437ce4add.png",
     "static/media/Linkedin.png": "/portfolio-professionnel/static/media/Linkedin.ed409d95d009bd5275b2.png",
     "static/media/react.png": "/portfolio-professionnel/static/media/react.22ee53b4acf878a694b9.png",
@@ -15,11 +15,11 @@
     "static/media/js_5968292.png": "/portfolio-professionnel/static/media/js_5968292.3dfb665e058d08c99f28.png",
     "static/media/instagram.png": "/portfolio-professionnel/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/portfolio-professionnel/index.html",
-    "main.c29ec6d7.css.map": "/portfolio-professionnel/static/css/main.c29ec6d7.css.map",
-    "main.113842f1.js.map": "/portfolio-professionnel/static/js/main.113842f1.js.map"
+    "main.012ebb5d.css.map": "/portfolio-professionnel/static/css/main.012ebb5d.css.map",
+    "main.1166328f.js.map": "/portfolio-professionnel/static/js/main.1166328f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c29ec6d7.css",
-    "static/js/main.113842f1.js"
+    "static/css/main.012ebb5d.css",
+    "static/js/main.1166328f.js"
   ]
 }

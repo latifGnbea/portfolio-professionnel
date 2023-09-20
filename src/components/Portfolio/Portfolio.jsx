@@ -26,7 +26,7 @@ const Portfolio = () => {
           description="Site web qui affiche tous les pays du monde ainsi que la population total et la capital avec un système de filtre en fonction du continent "
           imageUrl={P1}
           githubLink="https://gitlab.com/projet_personnel2/carte-du-monde.git"
-          liveDemoLink="#"
+          liveDemoLink="https://latifgnbea.github.io/carte-monde/"
         />
         <Presentation
           title="Projet A"

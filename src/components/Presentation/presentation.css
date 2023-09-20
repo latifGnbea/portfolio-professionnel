@@ -1,0 +1,67 @@
+/* Styles for the ProjectCard component */
+
+.project-card {
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+  max-width: 300px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: rgba(50, 50, 50, 1);
+  color: white;
+}
+
+.project-image {
+  height: auto;
+  display: block; /* Empêche les marges blanches autour de l'image */
+  margin: 0 auto; /* Centre l'image horizontalement */
+  width: 100%;
+}
+
+.project-title {
+  font-size: 1.5rem;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+/* presentation.css */
+
+.project-description {
+    font-size: 1rem;
+    margin-bottom: 0;
+    max-height: 100px; /* Hauteur maximale initiale */
+    margin-bottom: 1rem;
+    text-align: justify;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    cursor: pointer;
+    transition: max-height 0.9s ease-in-out;
+}
+
+.project-description-expanded {
+    font-size: 1rem;
+    margin-bottom: 0;
+    max-height: none; 
+    text-align: justify;
+    cursor: pointer;
+    overflow: none !important;
+    transition: max-height 0.9s ease-in-out;
+}
+
+/* Ajoutez ici d'autres styles spécifiques au besoin */
+
+.project-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-links a {
+  text-decoration: none;
+  color: #007bff;
+  transition: color 0.5s ease;
+}
+
+.project-links a:hover {
+  color: yellow;
+}

@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio-professionnel/static/css/main.b06cdfb8.css",
-    "main.js": "/portfolio-professionnel/static/js/main.3a4a1cf2.js",
+    "main.js": "/portfolio-professionnel/static/js/main.93d57378.js",
     "static/media/bg.png": "/portfolio-professionnel/static/media/bg.d1e98725568cf28840d1.png",
     "static/media/cvLatif2023.pdf": "/portfolio-professionnel/static/media/cvLatif2023.a446ceb385102c19359f.pdf",
     "static/media/gitlab.png": "/portfolio-professionnel/static/media/gitlab.7c54358810453da5bec9.png",
     "static/media/2560px-Node.js_logo.png": "/portfolio-professionnel/static/media/2560px-Node.js_logo.fc3bd1ec69d7a50e685a.png",
     "static/media/croquis_carte_monde.png": "/portfolio-professionnel/static/media/croquis_carte_monde.e479dd1ebb654dc7f0f8.png",
     "static/media/P22.PNG": "/portfolio-professionnel/static/media/P22.737afa27ad7c7d1a239b.PNG",
+    "static/media/figma-logo.png": "/portfolio-professionnel/static/media/figma-logo.ba01545374bf9a89ab8e.png",
     "static/media/mongo.png": "/portfolio-professionnel/static/media/mongo.2c167c721bd437ce4add.png",
     "static/media/Linkedin.png": "/portfolio-professionnel/static/media/Linkedin.ed409d95d009bd5275b2.png",
     "static/media/react.png": "/portfolio-professionnel/static/media/react.22ee53b4acf878a694b9.png",
@@ -15,13 +16,14 @@
     "static/media/html.png": "/portfolio-professionnel/static/media/html.2c6a71b184b518b01b9a.png",
     "static/media/css-3_5968242.png": "/portfolio-professionnel/static/media/css-3_5968242.4a6549b8c2b4cda8bb88.png",
     "static/media/js_5968292.png": "/portfolio-professionnel/static/media/js_5968292.3dfb665e058d08c99f28.png",
+    "static/media/ui-design.png": "/portfolio-professionnel/static/media/ui-design.c4acd455fc2040eddcc8.png",
     "static/media/instagram.png": "/portfolio-professionnel/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/portfolio-professionnel/index.html",
     "main.b06cdfb8.css.map": "/portfolio-professionnel/static/css/main.b06cdfb8.css.map",
-    "main.3a4a1cf2.js.map": "/portfolio-professionnel/static/js/main.3a4a1cf2.js.map"
+    "main.93d57378.js.map": "/portfolio-professionnel/static/js/main.93d57378.js.map"
   },
   "entrypoints": [
     "static/css/main.b06cdfb8.css",
-    "static/js/main.3a4a1cf2.js"
+    "static/js/main.93d57378.js"
   ]
 }

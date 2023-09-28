@@ -74,9 +74,7 @@
 }
 
 @media screen and (max-width: 375px) {
-  #intro {
-    overflow: hidden;
-  }
+ 
   .introContent,
   .introPara {
     font-size: 5vw;

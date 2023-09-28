@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Portfolio de Gneba latif idriss junior
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenue sur mon portfolio personnel. Ce portfolio présente une collection de mes projets, compétences et expériences professionnelles dans le domaine du developpement web. Je suis passionné par la création de site web et je suis constamment en train d'apprendre et d'évoluer dans ce domaine.
 
-## Available Scripts
+## Table des matières
 
-In the project directory, you can run:
+- [À propos](#à-propos)
+- [Projets](#projets)
+- [Compétences](#compétences)
+- [Expérience professionnelle](#expérience-professionnelle)
+- [Contact](#contact)
 
-### `npm start`
+## À propos
+Je suis Gneba latif latif idriss junior j'ai 23 en 2023 ,pationné par le developpement web et mobile je souhaite en faire mon métier 
+Pour moi coder c'est plus un divertissemnt qu'un travail je peux passer des journées entières devant mon ordinateur à coder car c'est quelque chose que j'aime.
+En ce moment j'ai le baccalaureat et une licence en informatique , j'ai eu à effectuer plusieurs stage en temps que developpeur web mais aussi je travail sur un projet personnel à savoir la gestion d'un hotel.
+Mon objectif est de vivre de ma passion 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Projets
 
-### `npm test`
+Cette section met en avant les projets que vous avez réalisés. Incluez des descriptions détaillées de chaque projet, des captures d'écran ou des liens vers des démonstrations en ligne, et indiquez les technologies que vous avez utilisées. Vous pouvez également ajouter des liens vers les dépôts GitHub correspondants.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### [carte du monde](lien-vers-le-projet-1)
 
-### `npm run build`
+- Description : Une brève description du projet.
+- Technologies utilisées : Liste des technologies, langages de programmation, etc.
+- Captures d'écran : Ajoutez des images pour montrer le projet en action.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### [Nom du Projet 2](lien-vers-le-projet-2)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Description : Une brève description du projet.
+- Technologies utilisées : Liste des technologies, langages de programmation, etc.
+- Captures d'écran : Ajoutez des images pour montrer le projet en action.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+(Continuez à ajouter des projets au besoin)
 
-### `npm run eject`
+## Compétences
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [React JS] - Excellent
+- [Node JS] - Excellent
+- [MongoDB] - Excellent
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Expérience professionnelle
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Décrivez vos expériences professionnelles pertinentes dans cette section. Incluez les détails de l'entreprise, le poste que vous occupiez, vos responsabilités et les réalisations marquantes.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### [AKARUSA SARL]
 
-## Learn More
+- **Poste occupé** : Stagiaire informaticien
+- **Période** : Septembre/2021 - Fevrier/2022
+- **Description** : Chargé de la maintenance des sites web des clients , resolution de certain bug et amélioration .
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### [LAHA COMMUNICATION]
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Poste occupé** : Stagiaire developpeur web
+- **Période** : Mars/2022 - Mai/2022
+- **Description** : Chargé de la maintenance des sites web des clients , resolution de certain bug et amélioration .
 
-### Code Splitting
+### [GOMYCODE]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Poste occupé** : Stagiaire developpeur web
+- **Période** : Avril/2023 - Septembre/2022
+- **Description** : Révision de la base (html/css/javascript),
+formation en profondeur avec à l'appui de mini projet et enfin réalisation d'un projet de fin de formation
 
-### Analyzing the Bundle Size
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+N'hésitez pas à me contacter ! Voici comment vous pouvez me joindre :
 
-### Making a Progressive Web App
+- Adresse e-mail : [juniorgneba@gmail.com](mailto:votre@email.com)
+- LinkedIn : [Junior Gneba](https://ci.linkedin.com/in/junior-gneba-0a4788284)
+- GitLab : [latifGnbea @latifGnbea](https://gitlab.com/latifGnbea)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des opportunités de collaboration.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Merci de visiter mon portfolio !

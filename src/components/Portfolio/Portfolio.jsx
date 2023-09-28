@@ -5,7 +5,7 @@ import P1 from "../../assets/croquis_carte_monde.png";
 // import P3 from "../../assets/portfolio-3.png";
 // import P4 from "../../assets/portfolio-4.png";
 // import P5 from "../../assets/portfolio-5.png";
-import P6 from "../../assets/portfolio-6.png";
+import P2 from "../../assets/P22.PNG";
 import Presentation from "../Presentation/Presentation";
 
 const Portfolio = () => {
@@ -20,20 +20,20 @@ const Portfolio = () => {
       </span>
 
       <div className="portfolio-imgs">
-      <Presentation
+        <Presentation
           title="Carte du monde"
-          tags="#Html #Css #ReactJS NodeJS"
+          tags="#Html #Css #ReactJS #NodeJS"
           description="Site web qui affiche tous les pays du monde ainsi que la population total et la capital avec un système de filtre en fonction du continent "
           imageUrl={P1}
           githubLink="https://gitlab.com/projet_personnel2/carte-du-monde.git"
           liveDemoLink="https://latifgnbea.github.io/carte-monde/"
         />
         <Presentation
-          title="Projet A"
-          description="Site web qui affiche tous les pays du monde ainsi que la population total et la capital avec un système de filtre en fonction du continent "
-          imageUrl={P6}
-          githubLink="#"
-          liveDemoLink="#"
+          title="Backend Gestion d'hotel"
+          tags=" #NodeJS #Express #jwtoken #dotenv #mongoose "
+          description="Presentaion de la réalisation du backend de l'applicatif Gestion d'hotel avec qui gere divers fonctionnalite à savoir Gestion des utilisateur compte et connection , Gestion des Gestion d'hotel  en CRUD , Session utilisatuer gérée avec le JsonWebToken "
+          imageUrl={P2}
+          githubLink="https://gitlab.com/projet_personnel2/gestion-hotel.git"
         />
       </div>
       {/* <button className="portfolio-btn">See more</button> */}

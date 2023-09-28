@@ -38,8 +38,8 @@ const Contact = () => {
     <section id="contact">
       <span className="contact-title">Contact </span>
       <span className="contact-description">
-        Laissez moi un message pour toute collaboration ou une simple salutation
-        :-)
+        N'hésitez pas à me contacter si vous avez des questions ou des
+        opportunités de collaboration.
       </span>
       <form action="" ref={form} onSubmit={sendEmail} className="contact-form">
         <input
@@ -68,7 +68,11 @@ const Contact = () => {
         </button>
 
         <div className="links">
-          <a href="https://www.facebook.com/profile.php?id=100091747421764&mibextid=nW3QTL" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://www.facebook.com/profile.php?id=100091747421764&mibextid=nW3QTL"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={facebookIcon} alt="Facebook" className="link" />
           </a>
           {/* <img src={twitterIcon} alt="twitter" className="link" /> */}

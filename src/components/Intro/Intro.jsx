@@ -11,7 +11,7 @@ const Intro = () => {
     words: [
       "Dévéloppeur web junior Full stack",
       "Graphiste",
-      "Technicien Réeseau",
+      "Technicien Réseau",
     ],
     loop: {},
     typeSpeed: 100,

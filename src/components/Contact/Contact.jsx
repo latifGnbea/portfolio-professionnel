@@ -2,6 +2,7 @@ import React, { useRef } from "react";
 import "./contact.css";
 import facebookIcon from "../../assets/facebook-icon.png";
 import gitLabg from "../../assets/gitlab.png";
+import github from "../../assets/github.png";
 // import twitterIcon from "../../assets/twitter.png";
 import linkedInIcon from "../../assets/Linkedin.png";
 import instagramIcon from "../../assets/instagram.png";
@@ -97,7 +98,14 @@ const Contact = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={gitLabg} alt="linkedIn" className="link" />
+            <img src={gitLabg} alt="gitlab" className="link" />
+          </a>
+          <a
+            href="https://github.com/latifGnbea"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={github} alt="github" className="link" />
           </a>
         </div>
       </form>

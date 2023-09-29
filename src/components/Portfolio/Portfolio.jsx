@@ -6,6 +6,7 @@ import P1 from "../../assets/croquis_carte_monde.png";
 // import P4 from "../../assets/portfolio-4.png";
 // import P5 from "../../assets/portfolio-5.png";
 import P2 from "../../assets/P22.PNG";
+import portfolio from "../../assets/PortfolioProjet.png";
 import Presentation from "../Presentation/Presentation";
 
 const Portfolio = () => {
@@ -36,6 +37,13 @@ const Portfolio = () => {
           githubLink="https://gitlab.com/projet_personnel2/gestion-hotel.git"
         />
       </div>
+      <Presentation
+        title="Portfolio"
+        tags=" #React #Emailjs"
+        description="Ce portfolio présente une collection de mes projets, compétences et expériences professionnelles dans le domaine du developpement web. Je suis passionné par la création de site web et je suis constamment en train d'apprendre et d'évoluer dans ce domaine."
+        imageUrl={portfolio}
+        githubLink="https://gitlab.com/projet_personnel2/gestion-hotel.git"
+      />
       {/* <button className="portfolio-btn">See more</button> */}
     </section>
   );

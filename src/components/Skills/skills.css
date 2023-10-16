@@ -55,6 +55,23 @@
     font-weight: 200;
 }
 
+.skill-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.skill-title span{
+    color: blueviolet;
+    margin-right: 2rem;
+    cursor: pointer;
+}
+.skill-body{
+    display: none;
+}
+
+.skill-body1{
+    display: none;
+}
 
 
 

@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-professionnel/static/css/main.b06cdfb8.css",
-    "main.js": "/portfolio-professionnel/static/js/main.edab62b7.js",
+    "main.css": "/portfolio-professionnel/static/css/main.ef9959d0.css",
+    "main.js": "/portfolio-professionnel/static/js/main.2b2a7d51.js",
     "static/media/bg.png": "/portfolio-professionnel/static/media/bg.d1e98725568cf28840d1.png",
     "static/media/cvLatif2023.pdf": "/portfolio-professionnel/static/media/cvLatif2023.bf6c25020bb967333d1b.pdf",
     "static/media/PortfolioProjet.png": "/portfolio-professionnel/static/media/PortfolioProjet.45651b72c918785e095e.png",
     "static/media/gitlab.png": "/portfolio-professionnel/static/media/gitlab.7c54358810453da5bec9.png",
     "static/media/2560px-Node.js_logo.png": "/portfolio-professionnel/static/media/2560px-Node.js_logo.fc3bd1ec69d7a50e685a.png",
     "static/media/croquis_carte_monde.png": "/portfolio-professionnel/static/media/croquis_carte_monde.e479dd1ebb654dc7f0f8.png",
+    "static/media/projetTodo.png": "/portfolio-professionnel/static/media/projetTodo.a051c8b19f099cd78607.png",
     "static/media/P22.PNG": "/portfolio-professionnel/static/media/P22.737afa27ad7c7d1a239b.PNG",
     "static/media/figma-logo.png": "/portfolio-professionnel/static/media/figma-logo.ba01545374bf9a89ab8e.png",
     "static/media/mongo.png": "/portfolio-professionnel/static/media/mongo.2c167c721bd437ce4add.png",
@@ -20,11 +21,11 @@
     "static/media/ui-design.png": "/portfolio-professionnel/static/media/ui-design.c4acd455fc2040eddcc8.png",
     "static/media/instagram.png": "/portfolio-professionnel/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/portfolio-professionnel/index.html",
-    "main.b06cdfb8.css.map": "/portfolio-professionnel/static/css/main.b06cdfb8.css.map",
-    "main.edab62b7.js.map": "/portfolio-professionnel/static/js/main.edab62b7.js.map"
+    "main.ef9959d0.css.map": "/portfolio-professionnel/static/css/main.ef9959d0.css.map",
+    "main.2b2a7d51.js.map": "/portfolio-professionnel/static/js/main.2b2a7d51.js.map"
   },
   "entrypoints": [
-    "static/css/main.b06cdfb8.css",
-    "static/js/main.edab62b7.js"
+    "static/css/main.ef9959d0.css",
+    "static/js/main.2b2a7d51.js"
   ]
 }

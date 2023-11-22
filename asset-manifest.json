@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio-professionnel/static/css/main.ef9959d0.css",
-    "main.js": "/portfolio-professionnel/static/js/main.24d15f4c.js",
+    "main.js": "/portfolio-professionnel/static/js/main.82f12eed.js",
+    "static/media/cv.pdf": "/portfolio-professionnel/static/media/cv.b3a1e0a175e1e7610673.pdf",
     "static/media/bg.png": "/portfolio-professionnel/static/media/bg.d1e98725568cf28840d1.png",
-    "static/media/cvLatif2023.pdf": "/portfolio-professionnel/static/media/cvLatif2023.bf6c25020bb967333d1b.pdf",
     "static/media/PortfolioProjet.png": "/portfolio-professionnel/static/media/PortfolioProjet.45651b72c918785e095e.png",
     "static/media/gitlab.png": "/portfolio-professionnel/static/media/gitlab.7c54358810453da5bec9.png",
     "static/media/2560px-Node.js_logo.png": "/portfolio-professionnel/static/media/2560px-Node.js_logo.fc3bd1ec69d7a50e685a.png",
@@ -22,10 +22,10 @@
     "static/media/instagram.png": "/portfolio-professionnel/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/portfolio-professionnel/index.html",
     "main.ef9959d0.css.map": "/portfolio-professionnel/static/css/main.ef9959d0.css.map",
-    "main.24d15f4c.js.map": "/portfolio-professionnel/static/js/main.24d15f4c.js.map"
+    "main.82f12eed.js.map": "/portfolio-professionnel/static/js/main.82f12eed.js.map"
   },
   "entrypoints": [
     "static/css/main.ef9959d0.css",
-    "static/js/main.24d15f4c.js"
+    "static/js/main.82f12eed.js"
   ]
 }

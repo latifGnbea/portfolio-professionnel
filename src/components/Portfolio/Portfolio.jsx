@@ -2,7 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import P1 from "../../assets/croquis_carte_monde.png";
 // import P2 from "../../assets/portfolio-2.png";
-import P3 from "../../assets/projetTodo.png";
+import P3 from "../../assets/todo1.png";
 // import P4 from "../../assets/portfolio-4.png";
 // import P5 from "../../assets/portfolio-5.png";
 import P2 from "../../assets/P22.PNG";
@@ -36,21 +36,21 @@ const Portfolio = () => {
           imageUrl={P2}
           githubLink="https://gitlab.com/projet_personnel2/gestion-hotel.git"
         />
-      <Presentation
-        title="Portfolio"
-        tags=" #React #Emailjs"
-        description="Ce portfolio présente une collection de mes projets, compétences et expériences professionnelles dans le domaine du developpement web. Je suis passionné par la création de site web et je suis constamment en train d'apprendre et d'évoluer dans ce domaine."
-        imageUrl={portfolio}
-        githubLink="https://gitlab.com/projet_personnel2/gestion-hotel.git"
-      />
-      <Presentation
-        title="Todo list"
-        tags=" #React #Vite "
-        description="Cette todolist encore loin d'etre terminé est le projet sur lequel je suis entrain de travailler en ce moment. Elle me permet de revoir les bases et de react et en meme temps j'apprend d'avantage. Les fonctionnalités du projet sont un système de CRUD et de trie en fonction du type de la tache(urgent,pas très urgent,futile)"
-        imageUrl={P3}
-        githubLink="https://gitlab.com/latifGnbea/todolist"
-        liveDemoLink="https://latif-gneba-todolist.vercel.app/"
-      />
+        <Presentation
+          title="Portfolio"
+          tags=" #React #Emailjs"
+          description="Ce portfolio présente une collection de mes projets, compétences et expériences professionnelles dans le domaine du developpement web. Je suis passionné par la création de site web et je suis constamment en train d'apprendre et d'évoluer dans ce domaine."
+          imageUrl={portfolio}
+          githubLink="https://gitlab.com/projet_personnel2/gestion-hotel.git"
+        />
+        <Presentation
+          title="Todo-list"
+          tags=" #React #Vite "
+          description="Dans ce projet, nous allons créer une application Todo complète avec toutes les fonctionnalités. Nous effectuerons toutes les opérations CRUD. Nous utiliserons React.js et, pour gérer nos états, nous utiliserons Redux. De plus, nous apprendrons à créer des animations simples en utilisant Framer Motion. J'espère que cela vous plaira."
+          imageUrl={P3}
+          githubLink="https://gitlab.com/latifGnbea/todolist-by-latif.git"
+          liveDemoLink="https://todolist-by-latif.vercel.app/"
+        />
       </div>
       {/* <button className="portfolio-btn">See more</button> */}
     </section>

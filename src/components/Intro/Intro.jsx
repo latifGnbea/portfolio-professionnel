@@ -4,7 +4,7 @@ import bg from "../../assets/bg.png";
 // import { Link } from "react-scroll";
 import btnImg from "../../assets/hireme.png";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import resume from "../../assets/cvLatif2023.pdf"
+import resume from "../../assets/cv.pdf"
 
 const Intro = () => {
   const [typeEffect] = useTypewriter({
